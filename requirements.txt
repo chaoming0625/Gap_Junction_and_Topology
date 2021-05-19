@@ -1,0 +1,2 @@
+brainpy-simulator>=1.0.0
+matplotlib>=3.3

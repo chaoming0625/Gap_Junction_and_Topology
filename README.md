@@ -3,7 +3,7 @@ The source code of "[A neural network model with gap junction for topological de
 
 Requirements:
 
-    brainpy-simulator>=1.0.0
+    brain-py==1.0.3
     matplotlib>=3.3
 
 
